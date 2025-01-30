@@ -4,10 +4,6 @@ description: "Get to know how to prepare a Dockerfile for running a Node.js Expr
 date: "2024-07-01"
 ---
 
-import Callout from "@/components/Callout.astro";
-
----
-
 1. Create a directory for the express project
     
     ```bash
