@@ -1,7 +1,7 @@
 ---
 title: "Preparing Dockerfile for Express Web App"
 description: "Get to know how to prepare a Dockerfile for running a Node.js Express web app."
-date: "2025-01-30"
+date: "2024-07-01"
 ---
 
 import Callout from "@/components/Callout.astro";

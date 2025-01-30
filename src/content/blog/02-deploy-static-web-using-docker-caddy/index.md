@@ -1,7 +1,7 @@
 ---
 title: "Deploying a Static Website on a Cloud Server using Docker & Caddy"
 description: "Discover the process of configuring a web server using Docker and Caddy, empowering you to deploy your static website on a cloud server with ease and efficiency."
-date: "2025-01-30"
+date: "2024-07-01"
 ---
 
 ## Introduction
