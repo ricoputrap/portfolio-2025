@@ -87,3 +87,6 @@ Let's get started!
    ```
 
    This will commit your changes and run the commit message hook.
+
+## Reference
+[YouTube: Git Hooks with Husky - React](https://www.youtube.com/watch?v=Z-ZeBrZ6f5U)
