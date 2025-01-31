@@ -56,3 +56,34 @@ Let's get started!
    ```
 
    This will push your changes and run the pre-push hook.
+
+## Adding Commit Message Hook
+
+1. **Install Commitlint**
+
+   ```bash
+   pnpm add --save-dev @commitlint/{cli,config-conventional}
+   ```
+
+2. **Create a Commitlint Configuration File**
+
+   ```bash
+   touch .commitlintrc.cjs
+   echo "module.exports = { extends: ['@commitlint/config-conventional'] }" > .commitlintrc.cjs
+   ```
+
+3. **Add a Commit Message Hook**
+
+  ```bash
+  touch .husky/commit-msg
+  echo "npx --no-install commitlint --edit $1" > .husky/commit-msg
+  ```
+
+4. **Commit Your Changes**
+
+   ```bash
+   git add .
+   git commit -m "chore: add commit message hook"
+   ```
+
+   This will commit your changes and run the commit message hook.
