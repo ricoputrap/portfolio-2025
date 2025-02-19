@@ -1,12 +1,13 @@
 ---
-title: "Writing Function Documentation in PHP"
+title: "Codecademy: Writing Function Documentation in PHP"
 description: "The summary of how to write function documentation in PHP."
 date: "2025-02-19"
 ---
 
-### Documentation
+## Documentation
 
 In order to understand built-in functions we’ve never used before, we’ll want to get comfortable understanding how they are represented in the documentation. Documentation typically includes:
+
 - The name of the function.
 - The versions of the PHP language the function is available in.
 - An overview of how the function works.
@@ -14,7 +15,7 @@ In order to understand built-in functions we’ve never used before, we’ll wan
 - Examples of the function in use.
 - User comments further explaining features of the function.
 
-### Example
+## Example
 
 ```php
 /**
