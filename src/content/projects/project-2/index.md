@@ -2,7 +2,7 @@
 title: "50 Problems"
 description: "Top 50 user generated problems for engineers."
 date: "2024-07-01"
-demoURL: "https://50problems.ricoputra.dev"
+demoURL: "#"
 repoURL: "https://github.com/ricoputrap/50-problems"
 ---
 
