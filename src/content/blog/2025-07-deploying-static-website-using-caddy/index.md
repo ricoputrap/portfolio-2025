@@ -161,4 +161,4 @@ Now, anyone who knows the public IP address of your server can access your websi
 
 It will look something like this:
 
-![static-web](/deploying-static-web/static-web.png)
+![static-web](/deploying-static-website/static-web.png)
