@@ -25,15 +25,18 @@ The designs below are picked from a youtube tutorial.
 - YouTube: [Building a Todo List App from Scratch | HTML, CSS, JavaScript](https://www.youtube.com/watch?v=u_ocJEv6c4Q)
 - GitHub: [opensource-coding/Todo-List-App](https://github.com/opensource-coding/Todo-List-App)
 
-#### C.1. Home Screen
+### C.1. Home Screen
 
 ![Home Screen](/images/home.png)
 
-#### C.2. Tasks Screen
+### C.2. Tasks Screen
+
 ![Tasks Screen](/images/tasks.png)
 
-#### C.3. Add New Task
+### C.3. Add New Task
+
 ![Add New Task](/images/add-task.png)
 
-#### C.4. Delete Task
+### C.4. Delete Task
+
 ![Delete Task](/images/delete-task.png)
