@@ -27,16 +27,16 @@ The designs below are picked from a youtube tutorial.
 
 ### C.1. Home Screen
 
-![Home Screen](/home.png)
+![Home Screen](/project-ideas/2025-01-todolist/home.png)
 
 ### C.2. Tasks Screen
 
-![Tasks Screen](/tasks.png)
+![Tasks Screen](/project-ideas/2025-01-todolist/tasks.png)
 
 ### C.3. Add New Task
 
-![Add New Task](/add-task.png)
+![Add New Task](/project-ideas/2025-01-todolist/add-task.png)
 
 ### C.4. Delete Task
 
-![Delete Task](/delete-task.png)
+![Delete Task](/project-ideas/2025-01-todolist/delete-task.png)
