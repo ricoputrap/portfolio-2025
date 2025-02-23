@@ -22,21 +22,21 @@ A simple todo list app built with only HTML, Tailwind CSS, and JavaScript.
 
 The designs below are picked from a youtube tutorial.
 
-- YouTube: [Building a Todo List App from Scratch | HTML, CSS, JavaScript](https://www.youtube.com/watch?v=u_ocJEv6c4Q)
-- GitHub: [opensource-coding/Todo-List-App](https://github.com/opensource-coding/Todo-List-App)
+- YouTube: ![Building a Todo List App from Scratch | HTML, CSS, JavaScript](https://www.youtube.com/watch?v=u_ocJEv6c4Q)
+- GitHub: ![opensource-coding/Todo-List-App](https://github.com/opensource-coding/Todo-List-App)
 
 ### C.1. Home Screen
 
-![Home Screen](/images/home.png)
+![Home Screen](/project-ideas/2025-01-todolist/images/home.png)
 
 ### C.2. Tasks Screen
 
-![Tasks Screen](/images/tasks.png)
+![Tasks Screen](/project-ideas/2025-01-todolist/images/tasks.png)
 
 ### C.3. Add New Task
 
-![Add New Task](/images/add-task.png)
+![Add New Task](/project-ideas/2025-01-todolist/images/add-task.png)
 
 ### C.4. Delete Task
 
-![Delete Task](/images/delete-task.png)
+![Delete Task](/project-ideas/2025-01-todolist/images/delete-task.png)
