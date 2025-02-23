@@ -2,6 +2,8 @@
 
 A simple todo list app built with only HTML, Tailwind CSS, and JavaScript.
 
+Project repository: [ricoputrap/todolist](https://github.com/ricoputrap/portfolio-2025/tree/main/project-ideas/2025-01-todolist)
+
 ## A. Functional Requirements
 
 1. Should be able to view the total number of all tasks
