@@ -27,16 +27,16 @@ The designs below are picked from a youtube tutorial.
 
 ### C.1. Home Screen
 
-![Home Screen](/images/home.png)
+![Home Screen](/home.png)
 
 ### C.2. Tasks Screen
 
-![Tasks Screen](/images/tasks.png)
+![Tasks Screen](/tasks.png)
 
 ### C.3. Add New Task
 
-![Add New Task](/images/add-task.png)
+![Add New Task](/add-task.png)
 
 ### C.4. Delete Task
 
-![Delete Task](/images/delete-task.png)
+![Delete Task](/delete-task.png)
