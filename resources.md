@@ -10,3 +10,4 @@
 8. [Career Advancement Plan](https://chat.asistenku.id/c/8ce6ac9f-78c2-419e-b36b-14828dd68f46)
 9. [Notion: System Designs](https://www.notion.so/ricoputrap/System-Designs-851544296a8c492195ba34243a2ae27d)
 10. [Notion: Daily Journal](https://www.notion.so/ricoputrap/17ba19594d59813db1c7ce87e96b7887?v=17ba19594d5981e9b826000c81f26194)
+11. [Fumadocs](https://fumadocs.vercel.app/)
