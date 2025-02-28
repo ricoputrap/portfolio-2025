@@ -15,5 +15,5 @@
 13. [How Facebook & YouTube Handle BILLIONS of Likes & Views!](https://www.youtube.com/watch?v=LGOnP9Udffo)
 14. [Frequently Asked JS Questions by Tauseef Fayyaz](https://www.linkedin.com/posts/tauseeffayyaz_softwareengineering-coding-systemdesign-activity-7300349199907225600--UXQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACBfTS0BWYMymu2tw2wFT9PMmwPk0zbNhFo)
 15. [Want to connect with people hiring for jobs TODAY? Find them on LinkedIn using this 4-step process](https://www.linkedin.com/posts/adamrbroda_want-to-connect-with-people-hiring-for-jobs-activity-7300877577722744832-skO2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACBfTS0BWYMymu2tw2wFT9PMmwPk0zbNhFo)
-
+16. [How I use LLMs by Andrej Karpathy](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 
