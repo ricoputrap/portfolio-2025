@@ -13,6 +13,7 @@
 11. [Fumadocs](https://fumadocs.vercel.app/)
 12. [14 Front End System Design Concepts Explained in 10 Minutes](https://www.youtube.com/watch?v=YO7R0rYWDl8)
 13. [How Facebook & YouTube Handle BILLIONS of Likes & Views!](https://www.youtube.com/watch?v=LGOnP9Udffo)
-14.
+14. [Frequently Asked JS Questions by Tauseef Fayyaz](https://www.linkedin.com/posts/tauseeffayyaz_softwareengineering-coding-systemdesign-activity-7300349199907225600--UXQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACBfTS0BWYMymu2tw2wFT9PMmwPk0zbNhFo)
+
 
 
