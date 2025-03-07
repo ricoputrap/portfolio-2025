@@ -1,5 +1,24 @@
+## Blogs
+1. [Design a URL Shortener - System Design Interview](https://blog.algomaster.io/p/design-a-url-shortener)
+2. [Basic OOP Concepts Explained with Code](https://blog.algomaster.io/p/basic-oop-concepts-explained-with-code)
+3. [How to Answer a System Design Interview Problem](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
+4. [System Design: What is Scalability?](https://blog.algomaster.io/p/scalability)
+5. [Design WhatsApp - System Design Interview](https://blog.algomaster.io/p/design-a-chat-application-like-whatsapp)
+6. [Design a Distributed Job Scheduler - System Design Interview](https://blog.algomaster.io/p/design-a-distributed-job-scheduler)
+
 ## Applications
 1. [Repository Health Analytics](https://repohealth.flipboxstudio.com/)
+
+## Twitter Posts
+1. [Logging by @indrazulfi](https://x.com/indrazulfi/status/1893184596940071318)
+2. [Brainstorm Backend Learning Strategy by @rico_rpp21](https://x.com/rico_rpp21/status/1890714496831836308)
+
+## Online Course
+1. [Laravel 11, Filament, MySQL: Web Bayar SPP by BWA](https://buildwithangga.com/kelas/course-playing/9K4M4qJp2Z)
+2. [Laravel 11 RESTful API by BWA](https://buildwithangga.com/kelas/laravel-11-restful-api?main_leads=topic)
+
+## Learning Platforms
+1. [Mastering Server Side Craft with iximiuz Labs](https://labs.iximiuz.com/)
 
 ## Bookmarks
 
