@@ -1,6 +1,6 @@
 ---
-title: "Pick the right place"
-description: "The strategy for finding the right working place so that you can perform best and eventually become 'Gabut' by Mas Gogo"
+title: "Pick the right place by Mas Gogo"
+description: "The strategy for finding the right working place so that you can perform best and eventually become 'Gabut'"
 date: "2025-03-10"
 ---
 
