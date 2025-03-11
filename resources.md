@@ -5,6 +5,7 @@
 4. [System Design: What is Scalability?](https://blog.algomaster.io/p/scalability)
 5. [Design WhatsApp - System Design Interview](https://blog.algomaster.io/p/design-a-chat-application-like-whatsapp)
 6. [Design a Distributed Job Scheduler - System Design Interview](https://blog.algomaster.io/p/design-a-distributed-job-scheduler)
+7. 
 
 ## Applications
 1. [Repository Health Analytics](https://repohealth.flipboxstudio.com/)
@@ -38,6 +39,7 @@
 14. [Frequently Asked JS Questions by Tauseef Fayyaz](https://www.linkedin.com/posts/tauseeffayyaz_softwareengineering-coding-systemdesign-activity-7300349199907225600--UXQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACBfTS0BWYMymu2tw2wFT9PMmwPk0zbNhFo)
 15. [Want to connect with people hiring for jobs TODAY? Find them on LinkedIn using this 4-step process](https://www.linkedin.com/posts/adamrbroda_want-to-connect-with-people-hiring-for-jobs-activity-7300877577722744832-skO2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACBfTS0BWYMymu2tw2wFT9PMmwPk0zbNhFo)
 16. [How I use LLMs by Andrej Karpathy](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+17. [Remote Handbook](https://remotecom.notion.site/a3439c6ccaac4d5f8c7515c357345c11?v=8bb7f9be662f45da87ef4ab14a42be37)
 
 ## Github
 
