@@ -10,3 +10,10 @@ While this is a common mechanism, it can negatively impact performance and user 
 
 Next.js addresses these challenges by automatically optimizing fonts in your application through the `next/font` module. This module downloads the font files **at build time** and hosts them with your other **static assets**. As a result, when a user visits your app, there are **no additional network requests** for fonts, which significantly improves performance and reduces layout shifts.
 
+Additionally, Next.js provides features such as:
+- **Font Subsetting**: Only the characters used in your application are included, reducing file size.
+- **Automatic Font Loading**: Fonts are loaded in a way that minimizes blocking of rendering, enhancing the perceived performance of your app.
+- **Support for Variable Fonts**: This allows for more flexibility and reduced file sizes by using a single font file that can adjust to different styles and weights.
+
+By leveraging these optimizations, Next.js ensures a smoother and more efficient experience for users when it comes to font rendering.
+
